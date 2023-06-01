@@ -1,7 +1,7 @@
 ## Hey! I'm know as SenpuDev 👋
 ### Freelance front-end developer
 
-![https://github.com/senpudev](https://raw.githubusercontent.com/SenpuDev/SenpuDev/main/senpubanner.png)
+![https://github.com/senpudev](https://raw.githubusercontent.com/SenpuDev/SenpuDev/main/senpubannerv2.png)
 
 ## Tecnologies:
 
