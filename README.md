@@ -1,8 +1,6 @@
 ## Hey! I'm know as SenpuDev 👋
 ### Freelance front-end developer
 
-![https://github.com/senpudev](https://raw.githubusercontent.com/SenpuDev/SenpuDev/main/BannerSD.png)
-
 ## Tecnologies:
 
 [![HTML5](https://img.shields.io/badge/html5-C57408?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
